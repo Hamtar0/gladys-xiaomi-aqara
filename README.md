@@ -8,7 +8,7 @@ The goal of this module is to receive events from Xiaomi Home Devices
 - [Xiaomi Switch Button](https://fr.gearbest.com/smart-light-bulb/pp_257679.html?wid=55)
 - [Xiaomi Door & Sensor](https://fr.gearbest.com/access-control/pp_626703.html?wid=55)
 - [Xiaomi Aqara Humidity & Temperature](https://fr.gearbest.com/access-control/pp_626702.html?wid=55)
-_ [Xiaomi Aqara Motion Sensor](https://fr.gearbest.com/alarm-systems/pp_659226.html?wid=1433363)
+- [Xiaomi Aqara Motion Sensor](https://fr.gearbest.com/alarm-systems/pp_659226.html?wid=1433363)
 
 ## Prerequisite
 
