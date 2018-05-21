@@ -1,0 +1,23 @@
+{
+  "name": "gladys-xiaomi-aqara",
+  "version": "0.1.0",
+  "description": "Gladys Xiaomi Home Module (Aqara support)",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "gladys",
+    "xiaomi",
+    "aqara",
+    "home"
+  ],
+  "author": "Damien Guillot",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+    "lumi-aqara": "^1.5.0",
+    "node-xiaomi-smart-home": "^1.2.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
