@@ -1,6 +1,4 @@
 const Aqara = require('lumi-aqara');
-const createDevice = require('./lib/createDevice');
-const createDeviceState = require('./lib/createDeviceState');
 const config = require('./config.js');
 const smartWirelessSwitch = require('./lib/smartWirelessSwitch.js');
 const humanMotionSensor = require('./lib/humanMotionSensor.js');
