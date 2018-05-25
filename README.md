@@ -71,3 +71,14 @@ To debug, you can see logs by calling :
 ```
 pm2 logs gladys-xiaomi-aqara
 ```
+
+## To do
+
+Add support for :
+- cube
+- plug
+- original sensor temperature
+- leak sensor
+- smoke sensor
+
+Add interactions with gateway (light, color, sound)
